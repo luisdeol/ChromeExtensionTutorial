@@ -1,7 +1,7 @@
 {
 	"manifest_version":2,
-	"name": "GTmetrix Analyzer Plugin",
-	"description": "This extension will analyze a page using GTmetrix",
+	"name": "Deviantart Download Images Plugin",
+	"description": "This extension will download images from deviantart to your computer",
 	"version": "1.0",
 	
 	"browser_action": {
